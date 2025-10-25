@@ -1,0 +1,7 @@
+candidateNo: 1: id: 198056724153 name: Nimal Perera age: 45 party: A District: Matara
+candidateNo: 2: id: 198656724214 name: Sunethra Kumari age: 39 party: A District: Matara
+candidateNo: 3: id: 199356724896 name: Lahiru Madushanka age: 32 party: A District: Matara
+candidateNo: 4: id: 198456724321 name: Chamara Silva age: 41 party: B District: Matara
+candidateNo: 5: id: 199756724312 name: Tharushi Fernando age: 28 party: B District: Matara
+candidateNo: 6: id: 198956724673 name: Dinusha Jayawardena age: 36 party: C District: Matara
+candidateNo: 7: id: 199256724821 name: Kusal Wijesinghe age: 33 party: C District: Matara
